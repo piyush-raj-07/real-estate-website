@@ -76,7 +76,7 @@ MIT LICENSE
 
 MIT License
 
-Copyright (c) 2024 Mohit Garhewal
+Copyright (c) 2024 Piyush Raj
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -100,7 +100,7 @@ SOFTWARE.
 
 If you have any questions, suggestions, or feedback, please feel free to reach out:
 
-- Email: [mohitgarhewal68@gmail.com](mailto:mohitgarhewal68@gmail.com)
+- Email: piyushraj07092005@gmail.com
 
 
 Thank you for using 69acres.com!
